@@ -1,0 +1,133 @@
+.table_1{
+     table-layout: fixed;
+    width:350px; 
+    text-align: center;
+    border: 1px solid purple; 
+    border-collapse: collapse;
+}
+td,tr,th{
+    border: 1px solid; 
+    border-collapse: collapse;
+}
+.table_2{
+    
+    border: 1px solid; 
+    border-collapse: collapse; 
+    background-color: gainsboro;  
+    width:450px; 
+    
+}
+
+td:first-child.table_2{
+    background-color: hotpink;
+}
+th.table_2{
+    background-color: palegreen;
+}
+td.table_2_f{
+    background-color: skyblue;
+}
+.table_4{
+   border: 1px solid;
+   border-color: steelblue;
+   font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+   width:250px; 
+   height: 150px;
+   text-align: center;
+
+}
+.border_t{
+    color: cornflowerblue;
+   border: 2px;
+}
+.table_5{
+    border: 2px solid rgb(199, 21, 21);;
+    border-collapse: collapse;
+    width: 300px; 
+    height: 150px;
+    font-style:oblique;
+}
+.shapka_back{
+    background-color: rgb(30, 81, 158);
+    border: 2px solid rgb(199, 21, 21);;
+}
+.shapka{
+    color:yellow;
+}
+.menu{
+    background-color: rgb(241, 210, 217);
+    border: 2px solid rgb(199, 21, 21);;
+}
+.news{
+    color: mintcream;
+}
+.content{
+    height:100px;
+    background-color: rgb(241, 210, 217);
+    text-align: left;
+    border: 2px solid rgb(199, 21, 21);
+}
+.shapka_2{
+    border-color: darkseagreen;
+    width: 150px;
+    background-color:green;
+}
+.menu_2{
+    background-color:greenyellow;
+    border-color: darkseagreen;
+    width: 100px;
+}
+.content_2{
+    border-color: darkseagreen;
+    background-color:darkseagreen;
+    height: 250px;
+    font-size: 25;
+   }
+
+   table.table_6 {
+   
+    border-collapse: collapse;
+    border: 1px solid rgb(170, 15, 15);
+}
+
+
+td.table_6_f {
+    border: 2px solid rgba(142, 190, 130, 0.89);
+    background-color: rgb(35, 128, 77);
+    color: khaki;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom:10px;
+}
+td.table_s {
+    border: 2px solid rgba(49, 197, 111, 0.89);
+    background-color: rgb(129, 247, 119);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom:10px;
+    font-size: 25;
+}
+table.table_7 {
+   
+    border-collapse: collapse;
+    border: 1px solid rgb(170, 15, 15);
+}
+
+
+td.table_7 {
+    border: 2px solid rgba(200, 144, 247, 0.89);
+    border: 2px solid rgb(143, 8, 71);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom:10px;
+    font-size: 25;
+}
+.rozclad{
+    border-collapse: collapse;
+    background-color: linen;
+    text-align: center;
+
+}
